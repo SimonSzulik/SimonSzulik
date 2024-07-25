@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **simonszulik21@gmail.com**
 
-- ⚡ Fun fact **I can speak japanese**
+- ⚡ Fun fact **I play the piano and guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
