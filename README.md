@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌️, I'm Simon</h1>
-<h3 align="center">Master's student in computer science with interests in algorithms, trying to get into security.</h3>
+<h3 align="center">Master's student in computer science with interests in graph algorithms 🪢, quantum computing 💻 and rock climbing 🪜 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonszulik&label=Profile%20views&color=0e75b6&style=flat" alt="simonszulik" /> </p>
 
