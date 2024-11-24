@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonszulik&label=Profile%20views&color=0e75b6&style=flat" alt="simonszulik" /> </p>
 
-- 🌱 I’m currently learning **networking and pentesting basics**
+- 🌱 I’m currently learning **machine learning, LLM's and parkour 🏙️**
 
-- 🤝 I’m looking for help with **getting into security**
+- 🤝 I’m looking for help with **anything related about AI stuff**
 
-- 💬 Ask me about **python and graph algorithms**
+- 💬 Ask me about **algorithms and graph stuff**
 
-- 📫 How to reach me **simonszulik21@gmail.com**
+- 📫 How to reach me **simonszulik18@gmail.com**
 
 - ⚡ Fun fact **I play the piano and guitar**
 
