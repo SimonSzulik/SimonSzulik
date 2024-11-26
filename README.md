@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **anything related about AI stuff**
 
-- 💬 Ask me about **algorithms and graph stuff**
+- 💬 Ask me about **algorithms and graphs**
 
 - 📫 How to reach me **simonszulik18@gmail.com**
 
