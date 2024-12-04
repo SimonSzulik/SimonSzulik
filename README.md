@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning, LLM's and parkour 🏙️**
 
-- 🤝 I’m looking for help with **anything related about AI stuff**
+- 🤝 I’m looking for help with **anything related to AI stuff**
 
 - 💬 Ask me about **algorithms and graphs**
 
